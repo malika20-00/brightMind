@@ -1,0 +1,7 @@
+choose/vendor/
+node_modules/
+/mix.js
+/mix-manifest.json
+/temp
+README.pdf
+.htmllint
